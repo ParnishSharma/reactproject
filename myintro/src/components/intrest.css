@@ -1,0 +1,12 @@
+.inth{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-items: center;
+    color: bisque;
+    display: flex;
+    justify-content: center;
+   size: 5rem;
+}
+.intc{
+    size: 5rem;
+    color: aquamarine;
+}

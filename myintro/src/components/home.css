@@ -1,0 +1,35 @@
+video{
+ 
+        position: absolute;
+        width: 100%;
+        height: 92%;
+        display: flex;
+        z-index: -1;
+       
+}
+.homeimg img{
+  max-height: 40%;
+  max-width: 25%;
+  border-radius: 30px;
+float: left;
+  margin: 40px;
+  position: relative;
+  
+
+}
+
+.intro{
+        margin: 10PX;
+        color: aqua;
+        display: flex;
+        align-items:center;
+}
+.heading{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: dodgerblue;
+        font-size: 85px;
+        height: 5rem;;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}

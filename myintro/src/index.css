@@ -1,0 +1,38 @@
+
+*{
+  margin:0;
+  padding:0;
+
+}
+video{
+  object-fit:cover;
+  width: 97vw;
+  height: 96vh;
+ position: relative;
+}
+
+.myimage{
+  margin-left: 4%;
+  margin-top: 10%;
+ position: absolute;
+ border-radius: 51px;
+  width: 300px;  
+  border: 3px solid rgba(208, 207, 204, 0.84);
+  z-index:57 ;
+
+}
+
+#textoh{
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  align-items: center;
+  z-index: 60 ;
+  color: aliceblue;
+  font-style: italic;
+  font-size: 200px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+
