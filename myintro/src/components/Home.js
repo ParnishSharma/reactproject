@@ -1,5 +1,4 @@
 import React from 'react'
-// import Design from '../Design'
 import vdobg from '../assets/Bgvdo.mp4'
 import mypic from '../assets/MYPIC.jpg'
 import './home.css'
