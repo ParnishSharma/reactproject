@@ -11,15 +11,15 @@ function More() {
     <>
    
    <div className='container'>
-    <h1></h1>
+    
        <div className="column">
         <Zoom><a href="https://github.com/ParnishSharma"><img  src={githubpic} alt="github"></img></a>
    </Zoom> </div> 
     <div className="column">
-    <Zoom ><a href="https://www.instagram.com/parnish_sharma/"> <img  src={instagrampic}></img></a>
+    <Zoom ><a href="https://www.instagram.com/parnish_sharma/"> <img  src={instagrampic} alt="instagram"></img></a>
     </Zoom> </div>
      <div className="column">
-   <Zoom ><a href="https://www.linkedin.com/in/parnish-sharma-63911921b/"> <img  src={linkedinpic}></img></a></Zoom>
+   <Zoom ><a href="https://www.linkedin.com/in/parnish-sharma-63911921b/"> <img  src={linkedinpic} alt="linkedin"></img></a></Zoom>
    </div>  
   </div>
   </>

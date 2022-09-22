@@ -1,8 +1,8 @@
-import React ,{useState}from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom'
 function Navbar() {
 
-  const[color ,changeColor] = useState("#12afed");
+
   
   return (
     <div>

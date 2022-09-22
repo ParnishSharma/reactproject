@@ -21,7 +21,7 @@ function Home() {
     </div>
       
       <div className='homeimg'><Jello>
-        <img src={mypic}></img>
+        <img src={mypic} alt=""></img>
 <div></div>
       </Jello></div>
 
